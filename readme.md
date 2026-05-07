@@ -49,7 +49,6 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/rohn-negi/AI-Powered-Competitive-Intelligence-Agent-with-LangChain.git
-cd your-repo-name
 
 Install dependencies:
 
@@ -65,7 +64,6 @@ Create a `.env` file in the root directory and add your Groq API key:
 
 ```env
 GROQ_API_KEY=your_api_key_here
-```
 
 ---
 
